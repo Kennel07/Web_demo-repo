@@ -20,8 +20,3 @@ Below are some description !
 </details>
 
 
----
-
-> Only ourselves can be trusted
-
-- Kent Balana
